@@ -58,5 +58,5 @@ The challenge evolves as you play:
 ---
 
 ## 👨‍💻 Developed By
-**Bassem Mossad (Beso)**
+**Bassem Mossad (BME-0)**
 *Self-taught C++ Developer focused on writing clean and efficient code.*
